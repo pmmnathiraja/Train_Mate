@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323873692558",
+    "firebase_url": "https://social-e17f1.firebaseio.com",
+    "project_id": "social-e17f1",
+    "storage_bucket": "social-e17f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323873692558:android:88dadbe88985b3528ea2df",
+        "android_client_info": {
+          "package_name": "com.train.flutter_train"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323873692558-cm0tmos9epsbdq6hdb80ua83u198rfqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJTYdaghiLk_1MYb5t-_8wOetNibONq4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323873692558-cm0tmos9epsbdq6hdb80ua83u198rfqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
